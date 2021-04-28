@@ -9,7 +9,6 @@
         <mspr:IsEncrypted>1</mspr:IsEncrypted>
         <mspr:IV_Size>8</mspr:IV_Size>
         <mspr:kid>u3LXf7dPJPcoN3RLAAAABA==</mspr:kid>
-      </ContentProtection>
       <Representation width="1280" height="720" frameRate="2997/100" codecs="avc1.64001f" id="720p-30fps-3500k" bandwidth="3605193">
         <SegmentTemplate timescale="90000" presentationTimeOffset="514975" startNumber="202955" media="1618423003/$RepresentationID$-$Number$.mp4" initialization="1618423003/$RepresentationID$-init.mp4">
           <SegmentTimeline>
@@ -66,7 +65,6 @@
         <mspr:IsEncrypted>1</mspr:IsEncrypted>
         <mspr:IV_Size>8</mspr:IV_Size>
         <mspr:kid>u3LXf7dPJPcoN3RLAAAABA==</mspr:kid>
-      </ContentProtection>
       <Representation audioSamplingRate="44100" codecs="mp4a.40.2" id="por-aac-por" bandwidth="77908">
         <SegmentTemplate timescale="90000" presentationTimeOffset="516184" startNumber="202955" media="1618423003/$RepresentationID$-$Number$.mp4" initialization="1618423003/$RepresentationID$-init.mp4">
           <SegmentTimeline>
